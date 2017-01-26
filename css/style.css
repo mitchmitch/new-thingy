@@ -1,0 +1,42 @@
+img {
+	max-width: 100%;
+} 
+.setting-bar {
+	display: flex;
+	justify-content: flex-end;
+	justify-content: space-between;
+}
+.section1{
+	display: flex;
+	width: 100%;
+}
+.innersection {
+	width: 20%;
+	order: 1;
+}
+.images2 {
+	width: 80%;
+	order: 2;
+}
+.image {
+}
+.images3 {
+	height: 400px;
+}
+
+.section2 {
+	display: flex;
+	width: 100%;
+}
+.images4 {
+	width: 50%;
+}
+.images5 {
+	width: 25%;
+}
+.images6 {
+	width: 25%;
+	}
+.images7 {
+	width: 25%
+}
